@@ -1,0 +1,30 @@
+[
+    {
+        "curso": {
+            "nombre": "Aritmetica",
+            "link": "https://www.khanacademy.org/math/algebra"
+        },
+        "unidad": {
+            "nombre": "Divide with remainders",
+            "link": "https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders"
+        },
+        "leccion": {
+            "nombre": "Interpret Remainders",
+            "link": "https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders/x18ca194a:remainders/e/understanding-remainders"
+        }
+    },
+    {
+        "curso": {
+            "nombre": "Aritmetica",
+            "link": "https://www.khanacademy.org/math/algebra"
+        },
+        "unidad": {
+            "nombre": "Divide with remainders",
+            "link": "https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders"
+        },
+        "leccion": {
+            "nombre": "Interpret Remainders",
+            "link": "https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders/x18ca194a:remainders/e/understanding-remainders"
+        }
+    }
+]
