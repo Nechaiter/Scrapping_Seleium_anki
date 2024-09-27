@@ -1,0 +1,2010 @@
+{
+    "cursos": [
+        {
+            "nombre": "Differential equations",
+            "link": "https://www.khanacademy.org/math/differential-equations",
+            "Unidades": [
+                {
+                    "nombre": "Unit 1: First order differential equations",
+                    "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations",
+                    "Lecciones": [
+                        {
+                            "nombre": "Verify solutions to differential equations",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/differential-equations-intro/e/introduction-to-differential-equations-and-initial-value-problems"
+                        },
+                        {
+                            "nombre": "Write differential equations",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/differential-equations-intro/e/write-differential-equations"
+                        },
+                        {
+                            "nombre": "Differential equations challenge",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/differential-equations-intro/e/differential-equations-challenge"
+                        },
+                        {
+                            "nombre": "Slope fields & equations",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/slope-fields/e/slope-fields"
+                        },
+                        {
+                            "nombre": "Reasoning using slope fields",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/slope-fields/e/slope-fields-and-solutions"
+                        },
+                        {
+                            "nombre": "Euler's method",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/eulers-method-tutorial/e/euler-s-method"
+                        },
+                        {
+                            "nombre": "Particular solutions to separable differential equations",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/separable-equations/e/separable-differential-equations"
+                        },
+                        {
+                            "nombre": "Differential equations: exponential model equations",
+                            "link": "https://www.khanacademy.org/math/differential-equations/first-order-differential-equations/exponential-models-diff-eq/e/exponential-model-equations"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 2: Second order linear equations",
+                    "link": "https://www.khanacademy.org/math/differential-equations/second-order-differential-equations",
+                    "Lecciones": "No hay lecciones"
+                },
+                {
+                    "nombre": "Unit 3: Laplace transform",
+                    "link": "https://www.khanacademy.org/math/differential-equations/laplace-transform",
+                    "Lecciones": "No hay lecciones"
+                }
+            ]
+        },
+        {
+            "nombre": "Get ready for Algebra 1",
+            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i",
+            "Unidades": [
+                {
+                    "nombre": "Unit 1: Get ready for equations & inequalities",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities",
+                    "Lecciones": [
+                        {
+                            "nombre": "Testing solutions to equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:algebraic-equations-basics/e/testing-solutions-of-equations-inequalities"
+                        },
+                        {
+                            "nombre": "One-step addition & subtraction equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:one-step-addition-subtraction-equations/e/one_step_equations"
+                        },
+                        {
+                            "nombre": "One-step multiplication & division equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:one-step-multiplication-division-equations/e/linear_equations_1"
+                        },
+                        {
+                            "nombre": "Find the mistake in one-step equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:finding-mistakes-in-one-step-equations/e/find-the-mistake-in-solving-one-step-equations"
+                        },
+                        {
+                            "nombre": "Inequality from graph",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:intro-to-inequalities-with-variables/e/inequality-from-graph"
+                        },
+                        {
+                            "nombre": "Plotting inequalities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:intro-to-inequalities-with-variables/e/inequalities_on_a_number_line"
+                        },
+                        {
+                            "nombre": "Testing solutions to inequalities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:testing-solutions-to-inequalities/e/testing-solutions-of-inequalities"
+                        },
+                        {
+                            "nombre": "Combining like terms with negative coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:combining-like-terms/e/combining_like_terms_1"
+                        },
+                        {
+                            "nombre": "Combining like terms with rational coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:combining-like-terms/e/manipulating-linear-expressions-with-rational-coefficients"
+                        },
+                        {
+                            "nombre": "Distributive property with variables (negative numbers)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:the-distributive-property-equivalent-expressions/e/factoring_linear_binomials"
+                        },
+                        {
+                            "nombre": "Combining like terms with negative coefficients & distribution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:the-distributive-property-equivalent-expressions/e/combining_like_terms_2"
+                        },
+                        {
+                            "nombre": "Equivalent expressions: negative numbers & distribution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:the-distributive-property-equivalent-expressions/e/equiv-expressions-w-neg-and-dist"
+                        },
+                        {
+                            "nombre": "Two-step equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:two-step-equations/e/linear_equations_2"
+                        },
+                        {
+                            "nombre": "Find the mistake: two-step equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:finding-mistakes-in-two-step-equations/e/find-the-mistake-two-step-equations"
+                        },
+                        {
+                            "nombre": "One-step inequalities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:one-and-two-step-inequalities/e/one_step_inequalities"
+                        },
+                        {
+                            "nombre": "Two-step inequalities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:one-and-two-step-inequalities/e/solving-2-step-inequalities"
+                        },
+                        {
+                            "nombre": "Equations with variables on both sides",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:equations-with-variables-on-both-sides/e/linear_equations_3"
+                        },
+                        {
+                            "nombre": "Equations with parentheses",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-equations-inequalities/x127ac35e11aba30e:equations-with-parentheses/e/multistep_equations_with_distribution"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 2: Get ready for working with units",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units",
+                    "Lecciones": [
+                        {
+                            "nombre": "Basic ratios",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:intro-to-ratios/e/representing-ratios"
+                        },
+                        {
+                            "nombre": "Equivalent ratios",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:equivalent-ratios/e/equivalent-ratios"
+                        },
+                        {
+                            "nombre": "Equivalent ratios with equal groups",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:equivalent-ratios/e/equivalent-ratio-word-problems--basic-"
+                        },
+                        {
+                            "nombre": "Equivalent ratio word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:equivalent-ratios/e/ratio_word_problems"
+                        },
+                        {
+                            "nombre": "Equivalent ratios in the real world",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:equivalent-ratios/e/equivalent-ratios-in-the-real-world"
+                        },
+                        {
+                            "nombre": "Understand equivalent ratios in the real world",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:equivalent-ratios/e/understand-equivalent-ratios"
+                        },
+                        {
+                            "nombre": "Ratios on coordinate plane",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:ratio-application/e/ratios-on-coordinate-plane"
+                        },
+                        {
+                            "nombre": "Ratios and units of measurement",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:ratio-application/e/ratios-and-units-of-measurement"
+                        },
+                        {
+                            "nombre": "Part-part-whole ratios",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:ratio-application/e/part-part-whole-ratios"
+                        },
+                        {
+                            "nombre": "Unit rates",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:intro-to-rates/e/unit-rates"
+                        },
+                        {
+                            "nombre": "Rate problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:rate-problems/e/rate_problems_0.5"
+                        },
+                        {
+                            "nombre": "Rates with fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:rate-problems/e/rate_problems_1"
+                        },
+                        {
+                            "nombre": "Comparing rates",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-working-with-units/x127ac35e11aba30e:rate-problems/e/comparing-rates"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 3: Get ready for linear relationships",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships",
+                    "Lecciones": [
+                        {
+                            "nombre": "Constant of proportionality from graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:constant-of-proportionality/e/constant-of-proportionality-from-graphs"
+                        },
+                        {
+                            "nombre": "Constant of proportionality from equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:constant-of-proportionality/e/constant-of-proportionality-from-equations"
+                        },
+                        {
+                            "nombre": "Constant of proportionality from tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:constant-of-proportionality/e/constant-of-proportionality-from-table"
+                        },
+                        {
+                            "nombre": "Constant of proportionality from tables (with equations)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:constant-of-proportionality/e/constant-of-proportionality-from-tables"
+                        },
+                        {
+                            "nombre": "Compare constants of proportionality",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:compare-and-interpret-constants-of-proportionality/e/compare-constants-of-proportionality"
+                        },
+                        {
+                            "nombre": "Interpret constants of proportionality",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:compare-and-interpret-constants-of-proportionality/e/interpret-constants-of-proportionality-"
+                        },
+                        {
+                            "nombre": "Interpret constant of proportionality in graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:compare-and-interpret-constants-of-proportionality/e/interpret-constant-of-proportionality-in-graphs"
+                        },
+                        {
+                            "nombre": "Identify proportional relationships",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:identifying-proportional-relationships/e/analyzing-and-identifying-proportional-relationships-2"
+                        },
+                        {
+                            "nombre": "Proportional relationships",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:identifying-proportional-relationships/e/analyzing-and-identifying-proportional-relationships"
+                        },
+                        {
+                            "nombre": "Identify proportional relationships from graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:graphs-of-proportional-relationships/e/identify-proportional-relationships-from-graphs"
+                        },
+                        {
+                            "nombre": "Interpreting graphs of proportional relationships",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:graphs-of-proportional-relationships/e/interpreting-graphs-of-proportional-relationships"
+                        },
+                        {
+                            "nombre": "Solving proportions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:writing-solving-proportions/e/proportions_1"
+                        },
+                        {
+                            "nombre": "Writing proportions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:writing-solving-proportions/e/writing_proportions"
+                        },
+                        {
+                            "nombre": "Proportion word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:writing-solving-proportions/e/constructing-proportions-to-solve-application-problems"
+                        },
+                        {
+                            "nombre": "Writing proportional equations from tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:equations-of-proportional-relationships/e/writing-proportional-equations-from-tables"
+                        },
+                        {
+                            "nombre": "Writing proportional equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:equations-of-proportional-relationships/e/writing-proportional-equations"
+                        },
+                        {
+                            "nombre": "Rates & proportional relationships",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:graphing-proportional-relationships/e/comparing-proportional-relationships"
+                        },
+                        {
+                            "nombre": "Graphing proportional relationships",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-linear-relationships/x127ac35e11aba30e:graphing-proportional-relationships/e/graphing-proportional-relationships"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 4: Get ready for functions & sequences",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences",
+                    "Lecciones": [
+                        {
+                            "nombre": "Patterns with numbers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:math-patterns/e/math-patterns"
+                        },
+                        {
+                            "nombre": "Patterns with shapes",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:math-patterns/e/patterns-with-shapes"
+                        },
+                        {
+                            "nombre": "Rules that relate 2 variables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:patterns-with-variables/e/write-a-2-variable-relationship"
+                        },
+                        {
+                            "nombre": "Tables from rules that relate 2 variables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:patterns-with-variables/e/create-a-table-or-coordinates-from-a-given-rule"
+                        },
+                        {
+                            "nombre": "Graphs of rules that relate 2 variables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:patterns-with-variables/e/graph-a-2-variable-relationship"
+                        },
+                        {
+                            "nombre": "Extend patterns",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:patterns-with-variables/e/extend-patterns"
+                        },
+                        {
+                            "nombre": "Relationships between 2 patterns",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:patterns-with-variables/e/visualizing-and-interpreting-relationships-between-patterns"
+                        },
+                        {
+                            "nombre": "Evaluate functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:functions-intro/e/evaluate-functions"
+                        },
+                        {
+                            "nombre": "Evaluate functions from their graph",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:functions-intro/e/evaluate-functions-from-graph"
+                        },
+                        {
+                            "nombre": "Function rules from equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:functions-intro/e/function-rules-from-equations"
+                        },
+                        {
+                            "nombre": "Linear equations word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:linear-models/e/linear-equations-word-problems"
+                        },
+                        {
+                            "nombre": "Linear models word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:linear-models/e/constructing-and-interpreting-linear-functions"
+                        },
+                        {
+                            "nombre": "Writing linear functions word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:linear-models/e/writing-linear-functions-word-problems"
+                        },
+                        {
+                            "nombre": "Linear & nonlinear functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:linear-nonlinear-functions/e/linear-non-linear-functions"
+                        },
+                        {
+                            "nombre": "Interpreting graphs of functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-functions-sequences/x127ac35e11aba30e:linear-nonlinear-functions/e/interpreting-graphs-of-linear-and-nonlinear-functions"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 5: Get ready for exponents, radicals, & irrational numbers",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers",
+                    "Lecciones": [
+                        {
+                            "nombre": "Square roots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:square-roots-cube-roots/e/square_roots"
+                        },
+                        {
+                            "nombre": "Cube roots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:square-roots-cube-roots/e/cube_roots"
+                        },
+                        {
+                            "nombre": "Roots of decimals & fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:square-roots-cube-roots/e/roots-of-decimals-and-fractions"
+                        },
+                        {
+                            "nombre": "Classify numbers: rational & irrational",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:irrational-numbers/e/recognizing-rational-and-irrational-numbers"
+                        },
+                        {
+                            "nombre": "Classify numbers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:irrational-numbers/e/identifying-whole--integer--and-rational-numbers"
+                        },
+                        {
+                            "nombre": "Exponents with integer bases",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponents-with-negative-bases/e/exponents_1.5"
+                        },
+                        {
+                            "nombre": "Exponents with negative fractional bases",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponents-with-negative-bases/e/exponents-with-negative-fractional-bases"
+                        },
+                        {
+                            "nombre": "Multiply powers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponent-properties-intro/e/multiply-powers"
+                        },
+                        {
+                            "nombre": "Powers of powers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponent-properties-intro/e/powers-of-powers"
+                        },
+                        {
+                            "nombre": "Divide powers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponent-properties-intro/e/divide-powers"
+                        },
+                        {
+                            "nombre": "Powers of products & quotients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponent-properties-intro/e/powers-of-products-and-quotients"
+                        },
+                        {
+                            "nombre": "Negative exponents",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:negative-exponents/e/exponents_2"
+                        },
+                        {
+                            "nombre": "Multiply & divide powers (integer exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponent-properties-integer-exponents/e/exponent_rules"
+                        },
+                        {
+                            "nombre": "Powers of products & quotients (integer exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-exponents-radicals-irrational-numbers/x127ac35e11aba30e:exponent-properties-integer-exponents/e/powers-of-powers-int-exp"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 6: Get ready for quadratics",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics",
+                    "Lecciones": [
+                        {
+                            "nombre": "Equations with square roots & cube roots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:equations-with-square-roots-cube-roots/e/equations-w-square-and-cube-roots"
+                        },
+                        {
+                            "nombre": "Equations with square roots: decimals & fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:equations-with-square-roots-cube-roots/e/equations-with-square-roots---cube-roots--decimals---fractions"
+                        },
+                        {
+                            "nombre": "Square and cube challenge",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:equations-with-square-roots-cube-roots/e/more-square-and-cube-root-problems"
+                        },
+                        {
+                            "nombre": "Combining like terms with negative coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:untitled-273/e/combining_like_terms_1"
+                        },
+                        {
+                            "nombre": "Combining like terms with rational coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:untitled-273/e/manipulating-linear-expressions-with-rational-coefficients"
+                        },
+                        {
+                            "nombre": "Distributive property with variables (negative numbers)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:untitled-274/e/factoring_linear_binomials"
+                        },
+                        {
+                            "nombre": "Combining like terms with negative coefficients & distribution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:untitled-274/e/combining_like_terms_2"
+                        },
+                        {
+                            "nombre": "Equivalent expressions: negative numbers & distribution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:untitled-274/e/equiv-expressions-w-neg-and-dist"
+                        },
+                        {
+                            "nombre": "Interpreting graphs of functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-i/x127ac35e11aba30e:get-ready-for-quadratics/x127ac35e11aba30e:interpreting-graphs-of-functions/e/interpreting-graphs-of-linear-and-nonlinear-functions"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Get ready for Algebra 2",
+            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii",
+            "Unidades": [
+                {
+                    "nombre": "Unit 1: Get ready for polynomial operations and complex numbers",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers",
+                    "Lecciones": [
+                        {
+                            "nombre": "Combining like terms with negative coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:combining-like-terms/e/combining_like_terms_1"
+                        },
+                        {
+                            "nombre": "Combining like terms with rational coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:combining-like-terms/e/manipulating-linear-expressions-with-rational-coefficients"
+                        },
+                        {
+                            "nombre": "Distributive property with variables (negative numbers)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:the-distributive-property-equivalent-expressions/e/factoring_linear_binomials"
+                        },
+                        {
+                            "nombre": "Combining like terms with negative coefficients & distribution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:the-distributive-property-equivalent-expressions/e/combining_like_terms_2"
+                        },
+                        {
+                            "nombre": "Equivalent expressions: negative numbers & distribution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:the-distributive-property-equivalent-expressions/e/equiv-expressions-w-neg-and-dist"
+                        },
+                        {
+                            "nombre": "Multiply & divide powers (integer exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:multiplying-dividing-powers/e/exponent_rules"
+                        },
+                        {
+                            "nombre": "Multiply binomials intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:untitled-97/e/multiplying_expressions_0.5"
+                        },
+                        {
+                            "nombre": "Multiply binomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:untitled-97/e/multiply-binomials-coefficient"
+                        },
+                        {
+                            "nombre": "Multiply difference of squares",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:special-products-of-binomials/e/multiplying_expressions_1"
+                        },
+                        {
+                            "nombre": "Multiply perfect squares of binomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:special-products-of-binomials/e/perfect-square-binomial-intro"
+                        },
+                        {
+                            "nombre": "Factoring quadratics intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:untitled-103/e/factoring_polynomials_1"
+                        },
+                        {
+                            "nombre": "Factoring quadratics with a common factor",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:untitled-103/e/factor-quadratics-common-factor"
+                        },
+                        {
+                            "nombre": "Factor quadratics by grouping",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:factoring-quadratics-by-grouping/e/factoring_polynomials_by_grouping_1"
+                        },
+                        {
+                            "nombre": "Difference of squares intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:factoring-quadratics-with-difference-of-squares/e/factoring_difference_of_squares_1"
+                        },
+                        {
+                            "nombre": "Difference of squares",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:factoring-quadratics-with-difference-of-squares/e/factoring_difference_of_squares_2"
+                        },
+                        {
+                            "nombre": "Perfect squares intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:factoring-quadratics-with-perfect-squares/e/intro-to-factoring-perfect-squares"
+                        },
+                        {
+                            "nombre": "Perfect squares",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-polynomial-operations-and-complex-numbers/x6e4201668896ef07:factoring-quadratics-with-perfect-squares/e/factoring-perfect-squares"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 2: Get ready for equations",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations",
+                    "Lecciones": [
+                        {
+                            "nombre": "Equations with variables on both sides",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-equations-with-variables-on-both-sides/e/linear_equations_3"
+                        },
+                        {
+                            "nombre": "Equations with parentheses",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:linear-equations-with-parentheses/e/multistep_equations_with_distribution"
+                        },
+                        {
+                            "nombre": "Reasoning with linear equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:linear-equations-with-parentheses/e/reasoning-with-linear-equations"
+                        },
+                        {
+                            "nombre": "Solutions of systems of equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:introduction-to-systems-of-equations/e/verifying-solutions-to-systems-of-equations"
+                        },
+                        {
+                            "nombre": "Systems of equations with graphing",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:introduction-to-systems-of-equations/e/graphing_systems_of_equations"
+                        },
+                        {
+                            "nombre": "Systems of equations with substitution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-systems-of-equations-with-substitution/e/systems_of_equations_with_substitution"
+                        },
+                        {
+                            "nombre": "Combining equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:equivalent-systems-of-equations-and-the-elimination-method/e/combining-equations"
+                        },
+                        {
+                            "nombre": "Elimination strategies",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:equivalent-systems-of-equations-and-the-elimination-method/e/elimination-strategies"
+                        },
+                        {
+                            "nombre": "Systems of equations with elimination",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:equivalent-systems-of-equations-and-the-elimination-method/e/systems_of_equations_with_elimination_0.5"
+                        },
+                        {
+                            "nombre": "Reasoning with systems of equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:equivalent-systems-of-equations-and-the-elimination-method/e/understanding-solution-methods-to-systems-of-equations"
+                        },
+                        {
+                            "nombre": "Square roots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:untitled-203/e/square_roots"
+                        },
+                        {
+                            "nombre": "Quadratics by taking square roots (intro)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-quadratic-equations-by-taking-the-square-root/e/solve-quadratics-by-taking-square-roots-intro"
+                        },
+                        {
+                            "nombre": "Quadratics by taking square roots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-quadratic-equations-by-taking-the-square-root/e/solving_quadratics_by_taking_the_square_root"
+                        },
+                        {
+                            "nombre": "Quadratics by taking square roots: strategy",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-quadratic-equations-by-taking-the-square-root/e/understanding-the-equation-solving-process"
+                        },
+                        {
+                            "nombre": "Quadratics by taking square roots: with steps",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-quadratic-equations-by-taking-the-square-root/e/quadratics-by-taking-square-roots-with-steps"
+                        },
+                        {
+                            "nombre": "Quadratics by factoring (intro)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-quadratics-by-factoring/e/solving_quadratics_by_factoring"
+                        },
+                        {
+                            "nombre": "Quadratics by factoring",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-quadratics-by-factoring/e/solving_quadratics_by_factoring_2"
+                        },
+                        {
+                            "nombre": "Solve equations using structure",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:solving-quadratics-by-factoring/e/solving-quadratics-by-using-structure"
+                        },
+                        {
+                            "nombre": "Quadratic formula",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:the-quadratic-formula/e/quadratic_equation"
+                        },
+                        {
+                            "nombre": "Number of solutions of quadratic equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-equations/x6e4201668896ef07:the-quadratic-formula/e/determine-the-number-of-solutions-of-a-quadratic-equation"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 3: Get ready for transformations of functions and modeling with functions",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions",
+                    "Lecciones": [
+                        {
+                            "nombre": "Evaluate functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:evaluating-functions/e/functions_1"
+                        },
+                        {
+                            "nombre": "Domain and range from graph",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:introduction-to-the-domain-and-range-of-a-function/e/domain_and_range_0.5"
+                        },
+                        {
+                            "nombre": "Identifying values in the domain",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:determining-the-domain-of-a-function/e/values-in-domain"
+                        },
+                        {
+                            "nombre": "Determine the domain of functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:determining-the-domain-of-a-function/e/domain-of-algebraic-functions"
+                        },
+                        {
+                            "nombre": "Function domain word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:determining-the-domain-of-a-function/e/interpreting-domain"
+                        },
+                        {
+                            "nombre": "Recognize functions from graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:recognizing-functions/e/recog-func-2"
+                        },
+                        {
+                            "nombre": "Recognize functions from tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:recognizing-functions/e/recognizing_functions"
+                        },
+                        {
+                            "nombre": "Relative maxima and minima",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:maximum-and-minimum-points/e/recognize-maxima-and-minima"
+                        },
+                        {
+                            "nombre": "Absolute maxima and minima",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:maximum-and-minimum-points/e/recognize-absolute-maxima-and-minima"
+                        },
+                        {
+                            "nombre": "Positive and negative intervals",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:intervals-where-a-function-is-positive-negative-increasing-or-decreasing/e/positive_and_negative_parts_of_functions"
+                        },
+                        {
+                            "nombre": "Increasing and decreasing intervals",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:intervals-where-a-function-is-positive-negative-increasing-or-decreasing/e/increasing-decreasing-intervals-of-functions"
+                        },
+                        {
+                            "nombre": "Shift absolute value graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:graphs-of-absolute-value-functions/e/shift-absolute-value-graphs"
+                        },
+                        {
+                            "nombre": "Scale & reflect absolute value graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:graphs-of-absolute-value-functions/e/stretch-and-shrink-absolute-value-graphs"
+                        },
+                        {
+                            "nombre": "Graph absolute value functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:graphs-of-absolute-value-functions/e/graphs-of-absolute-value-functions"
+                        },
+                        {
+                            "nombre": "Zero product property",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:graphing-quadratics-in-factored-form/e/zero-product-property"
+                        },
+                        {
+                            "nombre": "Graph quadratics in factored form",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:graphing-quadratics-in-factored-form/e/graph-quadratic-functions-in-factored-form"
+                        },
+                        {
+                            "nombre": "Graph quadratics in vertex form",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:graphing-quadratics-in-vertex-form/e/graphing_parabolas_1"
+                        },
+                        {
+                            "nombre": "Graph quadratics in standard form",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:graphing-quadratics-in-standard-form/e/graphing_parabolas_0.5"
+                        },
+                        {
+                            "nombre": "Features of quadratic functions: strategy",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:features-and-forms-of-quadratic-functions/e/identifying-and-using-quadratic-forms"
+                        },
+                        {
+                            "nombre": "Features of quadratic functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:features-and-forms-of-quadratic-functions/e/rewriting-expressions-to-reveal-information"
+                        },
+                        {
+                            "nombre": "Graph parabolas in all forms",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:features-and-forms-of-quadratic-functions/e/graphing_parabolas_2"
+                        },
+                        {
+                            "nombre": "Shift parabolas",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:transforming-quadratic-functions/e/shift-parabolas"
+                        },
+                        {
+                            "nombre": "Scale & reflect parabolas",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-transformations-of-functions-and-modeling-with-functions/x6e4201668896ef07:transforming-quadratic-functions/e/stretch-and-shrink-parabolas"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 4: Get ready for exponential and logarithmic relationships",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships",
+                    "Lecciones": [
+                        {
+                            "nombre": "Multiply & divide powers (integer exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponent-properties-integer-exponents/e/exponent_rules"
+                        },
+                        {
+                            "nombre": "Powers of products & quotients (integer exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponent-properties-integer-exponents/e/powers-of-powers-int-exp"
+                        },
+                        {
+                            "nombre": "Properties of exponents challenge (integer exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponent-properties-integer-exponents/e/properties-of-integer-exponents"
+                        },
+                        {
+                            "nombre": "Square roots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:radicals/e/square_roots"
+                        },
+                        {
+                            "nombre": "Roots of decimals & fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:radicals/e/roots-of-decimals-and-fractions"
+                        },
+                        {
+                            "nombre": "Cube roots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:radicals/e/cube_roots"
+                        },
+                        {
+                            "nombre": "Exponential vs. linear growth",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-vs-linear-growth/e/exponential-vs-linear-growth"
+                        },
+                        {
+                            "nombre": "Exponential vs. linear models",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-vs-linear-growth/e/understanding-linear-and-exponential-models"
+                        },
+                        {
+                            "nombre": "Exponential expressions word problems (numerical)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-expressions/e/exponential-expressions-word-problems"
+                        },
+                        {
+                            "nombre": "Exponential expressions word problems (algebraic)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-expressions/e/exponential-expressions-word-problems-algebraic"
+                        },
+                        {
+                            "nombre": "Interpret exponential expressions word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-expressions/e/interpret-exponential-expressions-word-problems"
+                        },
+                        {
+                            "nombre": "Graphs of exponential growth",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:graphs-of-exponential-growth/e/graphing-exponential-growth-intro"
+                        },
+                        {
+                            "nombre": "Exponential vs. linear growth over time",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-vs-linear-growth-over-time/e/comparing-growth-rates-of-exponentials-and-polynomials"
+                        },
+                        {
+                            "nombre": "Exponential growth vs. decay",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-growth-decay/e/exponential-growth-vs-decay"
+                        },
+                        {
+                            "nombre": "Graphing exponential growth & decay",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-growth-decay/e/graphs-of-basic-exponential-functions"
+                        },
+                        {
+                            "nombre": "Writing functions with exponential decay",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-growth-decay/e/writing-functions-with-exponential-decay"
+                        },
+                        {
+                            "nombre": "Exponential functions from tables & graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-functions-from-tables-graphs/e/construct-basic-exponential-functions-from-table-or-graph"
+                        },
+                        {
+                            "nombre": "Connecting exponential graphs with contexts",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:exponential-functions-from-tables-graphs/e/exponential-graph-context"
+                        },
+                        {
+                            "nombre": "Evaluate inverse functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:intro-to-inverse-functions/e/understanding-inverse-functions"
+                        },
+                        {
+                            "nombre": "Finding inverses of linear functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-exponential-and-logarithmic-relationships/x6e4201668896ef07:intro-to-inverse-functions/e/algebraically-finding-inverses"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 5: Get ready for trigonometry",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry",
+                    "Lecciones": [
+                        {
+                            "nombre": "Use Pythagorean theorem to find right triangle side lengths",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry/x6e4201668896ef07:pythagorean-theorem/e/pythagorean_theorem_1"
+                        },
+                        {
+                            "nombre": "Distance between two points",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry/x6e4201668896ef07:pythagorean-theorem-and-distance-between-points/e/distance_formula"
+                        },
+                        {
+                            "nombre": "Use ratios in right triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry/x6e4201668896ef07:ratios-in-right-triangles/e/use-ratios-in-right-triangles"
+                        },
+                        {
+                            "nombre": "Trigonometric ratios in right triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry/x6e4201668896ef07:introduction-to-the-trigonometric-ratios/e/trigonometry_1"
+                        },
+                        {
+                            "nombre": "Solve for a side in right triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry/x6e4201668896ef07:solving-for-sides-and-angles-in-right-triangles-using-the-trigonometric-ratios/e/trigonometry_2"
+                        },
+                        {
+                            "nombre": "Solve for an angle in right triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry/x6e4201668896ef07:solving-for-sides-and-angles-in-right-triangles-using-the-trigonometric-ratios/e/solve-for-an-angle-in-a-right-triangle"
+                        },
+                        {
+                            "nombre": "Radians & degrees",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-trigonometry/x6e4201668896ef07:introduction-to-radians/e/degrees_to_radians"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 6: Get ready for rational functions",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions",
+                    "Lecciones": [
+                        {
+                            "nombre": "Add fractions with unlike denominators",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:adding-and-subtracting-fractions-with-unlike-denominators/e/adding_fractions"
+                        },
+                        {
+                            "nombre": "Subtracting fractions with unlike denominators",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:adding-and-subtracting-fractions-with-unlike-denominators/e/subtracting_fractions"
+                        },
+                        {
+                            "nombre": "Add and subtract fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:adding-and-subtracting-fractions-with-unlike-denominators/e/adding-and-subtracting-fractions-with-unlike-denominators"
+                        },
+                        {
+                            "nombre": "Multiplying fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:multiplying-and-dividing-fractions/e/multiplying_fractions_0.5"
+                        },
+                        {
+                            "nombre": "Dividing fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:multiplying-and-dividing-fractions/e/dividing_fractions_1.5"
+                        },
+                        {
+                            "nombre": "Multiply binomials intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:multiplying-binomials/e/multiplying_expressions_0.5"
+                        },
+                        {
+                            "nombre": "Multiply binomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:multiplying-binomials/e/multiply-binomials-coefficient"
+                        },
+                        {
+                            "nombre": "Factoring quadratics intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:factoring-quadratics-intro/e/factoring_polynomials_1"
+                        },
+                        {
+                            "nombre": "Factoring quadratics with a common factor",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-algebra-ii/x6e4201668896ef07:get-ready-for-rational-functions/x6e4201668896ef07:factoring-quadratics-intro/e/factor-quadratics-common-factor"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Get ready for AP® Calculus",
+            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc",
+            "Unidades": [
+                {
+                    "nombre": "Unit 1: Get ready for limits and continuity",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity",
+                    "Lecciones": [
+                        {
+                            "nombre": "Evaluate functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:evaluating-functions/e/functions_1"
+                        },
+                        {
+                            "nombre": "Evaluate functions from their graph",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:evaluating-functions/e/evaluate-functions-from-their-graph"
+                        },
+                        {
+                            "nombre": "Evaluate function expressions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:evaluating-functions/e/functions_2"
+                        },
+                        {
+                            "nombre": "Function inputs & outputs: graph",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:inputs-and-outputs-of-a-function/e/match-inputs-to-outputs-from-a-graph"
+                        },
+                        {
+                            "nombre": "Evaluate composite functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:untitled-447/e/evaluate-composite-functions-from-formulas"
+                        },
+                        {
+                            "nombre": "Evaluate composite functions: graphs & tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:untitled-447/e/evaluate-composite-functions-from-graphs-and-tables"
+                        },
+                        {
+                            "nombre": "Evaluate piecewise functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:piecewise-functions/e/evaluating-piecewise-functions"
+                        },
+                        {
+                            "nombre": "Evaluate step functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:piecewise-functions/e/evaluate-step-functions-from-their-graph"
+                        },
+                        {
+                            "nombre": "Piecewise functions graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:piecewise-functions/e/piecewise-graphs-linear"
+                        },
+                        {
+                            "nombre": "GCF factoring introduction",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:introduction-to-factoring/e/gcf-factoring-introduction"
+                        },
+                        {
+                            "nombre": "Factoring quadratics intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-quadratics-intro/e/factoring_polynomials_1"
+                        },
+                        {
+                            "nombre": "Factoring quadratics with a common factor",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-quadratics-intro/e/factor-quadratics-common-factor"
+                        },
+                        {
+                            "nombre": "Factor quadratics by grouping",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-quadratics-by-grouping/e/factoring_polynomials_by_grouping_1"
+                        },
+                        {
+                            "nombre": "Difference of squares intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-quadratics-with-difference-of-squares/e/factoring_difference_of_squares_1"
+                        },
+                        {
+                            "nombre": "Difference of squares",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-quadratics-with-difference-of-squares/e/factoring_difference_of_squares_2"
+                        },
+                        {
+                            "nombre": "Perfect squares intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-quadratics-with-perfect-squares/e/intro-to-factoring-perfect-squares"
+                        },
+                        {
+                            "nombre": "Perfect squares",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-quadratics-with-perfect-squares/e/factoring-perfect-squares"
+                        },
+                        {
+                            "nombre": "Factor higher degree polynomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:factoring-higher-degree-polynomials/e/factor-higher-degree-polynomials"
+                        },
+                        {
+                            "nombre": "Trigonometric ratios in right triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:introduction-to-the-trigonometric-ratios/e/trigonometry_1"
+                        },
+                        {
+                            "nombre": "Reciprocal trig ratios",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:the-reciprocal-trigonometric-ratios/e/reciprocal_trig_funcs"
+                        },
+                        {
+                            "nombre": "Unit circle",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:unit-circle-introduction/e/unit-circle"
+                        },
+                        {
+                            "nombre": "Radians & degrees",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:radians/e/degrees_to_radians"
+                        },
+                        {
+                            "nombre": "Unit circle (with radians)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:radians/e/unit-circle-with-radians"
+                        },
+                        {
+                            "nombre": "Use the Pythagorean identity",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:the-pythagorean-identity/e/circles-and-pythagorean-identities"
+                        },
+                        {
+                            "nombre": "Trig values of π/6, π/4, and π/3",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:special-trig-values-in-q1/e/trig-values-of-6-4-and-3"
+                        },
+                        {
+                            "nombre": "Trig identities from reflections and rotations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:trigonometric-identities-on-the-unit-circle/e/trig-identities-from-reflections-and-rotations"
+                        },
+                        {
+                            "nombre": "Trig values of special angles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:trigonometric-identities-on-the-unit-circle/e/trigonometric-functions-of-special-angles"
+                        },
+                        {
+                            "nombre": "Using the trig angle addition identities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:angle-addition-identities/e/trig_addition_identities"
+                        },
+                        {
+                            "nombre": "Reduce rational expressions to lowest terms: Error analysis",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:reducing-rational-expressions-to-lowest-terms/e/simplifying_rational_expressions_1"
+                        },
+                        {
+                            "nombre": "Reduce rational expressions to lowest terms",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:reducing-rational-expressions-to-lowest-terms/e/simplifying_rational_expressions_2"
+                        },
+                        {
+                            "nombre": "End behavior of rational functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:end-behavior-of-rational-functions/e/end-behavior-of-rational-functions"
+                        },
+                        {
+                            "nombre": "Rational functions: zeros, asymptotes, and undefined points",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:discontinuities-of-rational-functions/e/points-of-discontinuity-of-rational-functions"
+                        },
+                        {
+                            "nombre": "Multiply & divide rational expressions: Error analysis",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-limits-and-continuity/xa350bf684c056c5c:multiplying-and-dividing-rational-expressions/e/multiplying_and_dividing_rational_expressions_1"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 2: Get ready for differentiation: definition and basic derivative rules",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1",
+                    "Lecciones": [
+                        {
+                            "nombre": "Slope-intercept intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:intro-to-slope-intercept-form/e/slope-from-an-equation-in-slope-intercept-form"
+                        },
+                        {
+                            "nombre": "Slope-intercept from two points",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:writing-slope-intercept-equations/e/slope-intercept-equation-from-two-points"
+                        },
+                        {
+                            "nombre": "Point-slope form",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:point-slope-form/e/converting_between_point_slope_and_slope_intercept"
+                        },
+                        {
+                            "nombre": "Average rate of change: graphs & tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:average-rate-of-change/e/avg-rate-of-change-graphs-tables"
+                        },
+                        {
+                            "nombre": "Unit-fraction exponents",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:rational-exponents/e/understanding-fractional-exponents"
+                        },
+                        {
+                            "nombre": "Fractional exponents",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:rational-exponents/e/exponents_3"
+                        },
+                        {
+                            "nombre": "Rational exponents challenge",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:rational-exponents/e/manipulating-fractional-exponents"
+                        },
+                        {
+                            "nombre": "Properties of exponents intro (rational exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:properties-of-exponents/e/exponents_4"
+                        },
+                        {
+                            "nombre": "Properties of exponents (rational exponents)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:properties-of-exponents/e/rational-exp-prop-challenge"
+                        },
+                        {
+                            "nombre": "Evaluate logarithms",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:introduction-to-logarithms/e/logarithms_1"
+                        },
+                        {
+                            "nombre": "Evaluate logarithms (advanced)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:introduction-to-logarithms/e/logarithms_1.5"
+                        },
+                        {
+                            "nombre": "Relationship between exponentials & logarithms",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-1/xa350bf684c056c5c:introduction-to-logarithms/e/understanding-logs-as-inverse-exponentials"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 3: Get ready for differentiation: composite, implicit, and inverse functions",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2",
+                    "Lecciones": [
+                        {
+                            "nombre": "Evaluate composite functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:composing-functions/e/evaluate-composite-functions-from-formulas"
+                        },
+                        {
+                            "nombre": "Evaluate composite functions: graphs & tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:composing-functions/e/evaluate-composite-functions-from-graphs-and-tables"
+                        },
+                        {
+                            "nombre": "Find composite functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:composing-functions/e/compose-functions"
+                        },
+                        {
+                            "nombre": "Linear equations with unknown coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:linear-equations-with-unknown-coefficients/e/solving_for_a_variable"
+                        },
+                        {
+                            "nombre": "Evaluate inverse functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:intro-to-inverse-functions/e/understanding-inverse-functions"
+                        },
+                        {
+                            "nombre": "Finding inverses of linear functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:intro-to-inverse-functions/e/algebraically-finding-inverses"
+                        },
+                        {
+                            "nombre": "Determine if a function is invertible",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:invertible-functions/e/inverse-domain-range"
+                        },
+                        {
+                            "nombre": "Restrict domains of functions to make them invertible",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:invertible-functions/e/restrict-the-domains-of-functions"
+                        },
+                        {
+                            "nombre": "Evaluate inverse trig functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:inverse-trigonometric-functions/e/inverse_trig_functions"
+                        },
+                        {
+                            "nombre": "Inverse functions: graphs and tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:inverse-functions-in-graphs-and-tables/e/inverse-functions-graphs-and-tables"
+                        },
+                        {
+                            "nombre": "Verify inverse functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-differentiation-2/xa350bf684c056c5c:verifying-inverse-functions-by-composition/e/inverses_of_functions"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 4: Get ready for contextual applications of differentiation",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation",
+                    "Lecciones": [
+                        {
+                            "nombre": "Using units to solve problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:word-problems-with-multiple-units/e/units"
+                        },
+                        {
+                            "nombre": "Linear equations word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:linear-equations-word-problems/e/interpreting-features-of-linear-functions"
+                        },
+                        {
+                            "nombre": "Writing linear equations word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:linear-equations-word-problems/e/constructing-linear-functions-word-problems"
+                        },
+                        {
+                            "nombre": "Function notation word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:interpreting-function-notation/e/function-notation-in-context"
+                        },
+                        {
+                            "nombre": "Average rate of change word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:average-rate-of-change-word-problems/e/average-rate-of-change-word-problems"
+                        },
+                        {
+                            "nombre": "Model with composite functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:modeling-with-composite-functions/e/modeling-with-composite-functions"
+                        },
+                        {
+                            "nombre": "Right triangle trigonometry word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:modeling-with-right-triangles/e/applying-right-triangles"
+                        },
+                        {
+                            "nombre": "Volume and surface area of cylinders",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:volume-and-surface-area/e/solid_geometry"
+                        },
+                        {
+                            "nombre": "Apply volume of solids",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-contextual-applications-of-differentiation/xa350bf684c056c5c:volume-and-surface-area/e/apply-volume-of-solids"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 5: Get ready for applying derivatives to analyze functions",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions",
+                    "Lecciones": [
+                        {
+                            "nombre": "Relative maxima and minima",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:maximum-and-minimum-points/e/recognize-maxima-and-minima"
+                        },
+                        {
+                            "nombre": "Absolute maxima and minima",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:maximum-and-minimum-points/e/recognize-absolute-maxima-and-minima"
+                        },
+                        {
+                            "nombre": "Positive and negative intervals",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:intervals-where-a-function-is-positive-negative-increasing-or-decreasing/e/positive_and_negative_parts_of_functions"
+                        },
+                        {
+                            "nombre": "Increasing and decreasing intervals",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:intervals-where-a-function-is-positive-negative-increasing-or-decreasing/e/increasing-decreasing-intervals-of-functions"
+                        },
+                        {
+                            "nombre": "Graph interpretation word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:interpreting-features-of-graphs/e/interpret-features-func-2"
+                        },
+                        {
+                            "nombre": "Distance between two points",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:distance-formula/e/distance_formula"
+                        },
+                        {
+                            "nombre": "Square-root equations intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:untitled-481/e/solve-square-root-equations-basic"
+                        },
+                        {
+                            "nombre": "Square-root equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:untitled-481/e/solve-square-root-equations-advanced"
+                        },
+                        {
+                            "nombre": "Zeros of polynomials (factored form)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:zeros-of-polynomials/e/using-zeros-to-graph-polynomials"
+                        },
+                        {
+                            "nombre": "Zeros of polynomials (with factoring)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:zeros-of-polynomials/e/find-the-zeros-of-polynomials"
+                        },
+                        {
+                            "nombre": "Positive & negative intervals of polynomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:positive-and-negative-intervals-of-polynomials/e/positive-and-negative-intervals-of-polynomials"
+                        },
+                        {
+                            "nombre": "Zeros of polynomials (multiplicity)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applying-derivatives-to-analyze-functions/xa350bf684c056c5c:positive-and-negative-intervals-of-polynomials/e/poly-zeros-mult"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 6: Get ready for integration and accumulation of change",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change",
+                    "Lecciones": [
+                        {
+                            "nombre": "Completing the square (intro)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:completing-the-square/e/completing_the_square_in_quadratic_expressions"
+                        },
+                        {
+                            "nombre": "Completing the square (intermediate)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:completing-the-square/e/completing_the_square_1"
+                        },
+                        {
+                            "nombre": "Completing the square",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:completing-the-square/e/completing_the_square_2"
+                        },
+                        {
+                            "nombre": "Divide quadratics by linear expressions (no remainders)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:dividing-quadratics-by-linear-factors/e/quad-by-linear-no-remainders"
+                        },
+                        {
+                            "nombre": "Divide quadratics by linear expressions (with remainders)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:dividing-quadratics-by-linear-factors/e/quad-by-linear-remainders"
+                        },
+                        {
+                            "nombre": "Divide polynomials by linear expressions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:dividing-polynomials-by-linear-factors/e/divide-polynomials-by-binomials"
+                        },
+                        {
+                            "nombre": "Partial fraction expansion",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:partial-fraction-expansion/e/partial_fraction_expansion_1"
+                        },
+                        {
+                            "nombre": "Summation notation intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-integration-and-accumulation-of-change/xa350bf684c056c5c:summation-notation/e/evaluating-basic-sigma-notation"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 7: Get ready for applications of integration",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration",
+                    "Lecciones": [
+                        {
+                            "nombre": "Rational equations intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:rational-equations/e/linear_equations_4"
+                        },
+                        {
+                            "nombre": "Rational equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:rational-equations/e/rational-equations-3"
+                        },
+                        {
+                            "nombre": "Square-root equations intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:square-root-equations/e/solve-square-root-equations-basic"
+                        },
+                        {
+                            "nombre": "Extraneous solutions of equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:extraneous-solutions/e/extraneous-solutions-to-radical-equations"
+                        },
+                        {
+                            "nombre": "Solve sinusoidal equations (basic)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:sinusoidal-equations/e/solve-basic-sinusoidal-equations"
+                        },
+                        {
+                            "nombre": "Manipulate formulas",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:manipulating-formulas/e/manipulating-formulas"
+                        },
+                        {
+                            "nombre": "Solving equations graphically: intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:solving-equations-by-graphing/e/equations-graph-intro"
+                        },
+                        {
+                            "nombre": "Solving equations graphically: graphing calculator",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:solving-equations-by-graphing/e/equations-graph-calc"
+                        },
+                        {
+                            "nombre": "Cross sections of 3D objects (basic)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:2d-vs-3d-objects/e/slicing-3d-figures"
+                        },
+                        {
+                            "nombre": "Cross sections of 3D objects",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:2d-vs-3d-objects/e/cross-sections-of-3d-shapes"
+                        },
+                        {
+                            "nombre": "Rotate 2D shapes in 3D",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:2d-vs-3d-objects/e/rotate-2d-shapes-to-make-3d-objects"
+                        },
+                        {
+                            "nombre": "Apply Cavalieri's principle",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-applications-of-integration/xa350bf684c056c5c:cavalieri-s-principle-and-dissection-methods/e/explain-related-volumes"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 8: Get ready for parametric equations, polar coordinates, and vector-valued functions (BC only)",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector",
+                    "Lecciones": [
+                        {
+                            "nombre": "Area of a sector",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector/xa350bf684c056c5c:sectors/e/areas_of_circles_and_sectors"
+                        },
+                        {
+                            "nombre": "Vectors intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector/xa350bf684c056c5c:vectors-introduction/e/equivalent-vectors"
+                        },
+                        {
+                            "nombre": "Components of vectors from endpoints",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector/xa350bf684c056c5c:vector-components/e/components_of_vectors"
+                        },
+                        {
+                            "nombre": "Magnitude of vectors",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector/xa350bf684c056c5c:magnitude-of-vectors/e/magnitude-of-vectors"
+                        },
+                        {
+                            "nombre": "Scalar multiplication",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector/xa350bf684c056c5c:scalar-multiplication/e/scaling_vectors"
+                        },
+                        {
+                            "nombre": "Direction of vectors",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector/xa350bf684c056c5c:direction-of-vectors/e/direction-angles"
+                        },
+                        {
+                            "nombre": "Vector components from magnitude & direction",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-parametric-polar-vector/xa350bf684c056c5c:vector-components-from-magnitude-direction/e/converting-from-magnitude-and-direction-form-to-component-form"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 9: Get ready for infinite sequences and series (BC only)",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series",
+                    "Lecciones": [
+                        {
+                            "nombre": "Explicit formulas for arithmetic sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:arithmetic-sequences/e/explicit-formulas-for-arithmetic-sequences"
+                        },
+                        {
+                            "nombre": "Explicit formulas for geometric sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:geometric-sequences/e/sequences-as-functions"
+                        },
+                        {
+                            "nombre": "Summation notation intro",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:untitled-417/e/evaluating-basic-sigma-notation"
+                        },
+                        {
+                            "nombre": "Arithmetic series",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:arithmetic-series/e/arithmetic_series"
+                        },
+                        {
+                            "nombre": "Geometric series formula",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:geometric-series/e/geometric-series-formula"
+                        },
+                        {
+                            "nombre": "Finite geometric series word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:geometric-series/e/geometric-series"
+                        },
+                        {
+                            "nombre": "Finite geometric series",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:geometric-series/e/geometric-series--1"
+                        },
+                        {
+                            "nombre": "End behavior of rational functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-calc/xa350bf684c056c5c:get-ready-for-infinite-sequences-and-series/xa350bf684c056c5c:untitled-503/e/end-behavior-of-rational-functions"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Get ready for AP® Statistics",
+            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics",
+            "Unidades": [
+                {
+                    "nombre": "Unit 1: Get ready for exploring categorical data",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data",
+                    "Lecciones": [
+                        {
+                            "nombre": "Creating frequency tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data/xc9bacb4afa74e6e9:frequency-tables/e/creating-frequency-tables"
+                        },
+                        {
+                            "nombre": "Create bar graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data/xc9bacb4afa74e6e9:bar-graphs/e/creating_bar_charts_1"
+                        },
+                        {
+                            "nombre": "Solve problems with bar graphs",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data/xc9bacb4afa74e6e9:bar-graphs/e/solving-problems-with-bar-graphs-2"
+                        },
+                        {
+                            "nombre": "Relate fractions, decimals, and percents",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data/xc9bacb4afa74e6e9:fractions-decimals-and-percents/e/relate-fractions--decimals--and-percents"
+                        },
+                        {
+                            "nombre": "Equivalent representations of percent problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data/xc9bacb4afa74e6e9:fractions-decimals-and-percents/e/equivalent-representations-of-percent-problems"
+                        },
+                        {
+                            "nombre": "Finding percents",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data/xc9bacb4afa74e6e9:fractions-decimals-and-percents/e/finding_percents"
+                        },
+                        {
+                            "nombre": "Percent word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-categorical-data/xc9bacb4afa74e6e9:fractions-decimals-and-percents/e/percentage_word_problems_1"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 2: Get ready for exploring one-variable quantitative data",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data",
+                    "Lecciones": [
+                        {
+                            "nombre": "Creating frequency tables",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:frequency-tables-and-dot-plots/e/creating-frequency-tables"
+                        },
+                        {
+                            "nombre": "Creating dot plots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:frequency-tables-and-dot-plots/e/creating-dot-plots"
+                        },
+                        {
+                            "nombre": "Creating box plots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:box-plots/e/box-plots"
+                        },
+                        {
+                            "nombre": "Comparing data displays",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:comparing-data-displays/e/comparing-data-displays"
+                        },
+                        {
+                            "nombre": "Calculating the mean",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:mean-median/e/calculating-the-mean"
+                        },
+                        {
+                            "nombre": "Calculating the median",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:mean-median/e/calculating-the-median"
+                        },
+                        {
+                            "nombre": "Calculating the mean: data displays",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:mean-median/e/calculating-the-mean-from-various-data-displays"
+                        },
+                        {
+                            "nombre": "Calculating the median: data displays",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:mean-median/e/calculating-the-median-from-data-displays"
+                        },
+                        {
+                            "nombre": "Mean absolute deviation (MAD)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:mean-absolute-deviation/e/calculating-the-mean-absolute-deviation--mad-"
+                        },
+                        {
+                            "nombre": "Equations with variables on both sides",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:equations-variables-both-sides/e/linear_equations_3"
+                        },
+                        {
+                            "nombre": "Equations with variables on both sides: decimals & fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:equations-variables-both-sides/e/variables-on-both-sides-rational"
+                        },
+                        {
+                            "nombre": "Linear equations with unknown coefficients",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-one-variable-quantitative-data/xc9bacb4afa74e6e9:equations-unknown-coefficients/e/solving_for_a_variable"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 3: Get ready for exploring two-variable quantitative data",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-two-variable-quantitative-data",
+                    "Lecciones": [
+                        {
+                            "nombre": "Constructing scatter plots",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-two-variable-quantitative-data/xc9bacb4afa74e6e9:scatter-plots-intro/e/constructing-scatter-plots"
+                        },
+                        {
+                            "nombre": "Eyeballing the line of best fit",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-two-variable-quantitative-data/xc9bacb4afa74e6e9:estimating-with-trend-lines/e/plotting_the_line_of_best_fit"
+                        },
+                        {
+                            "nombre": "Estimating slope of line of best fit",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-two-variable-quantitative-data/xc9bacb4afa74e6e9:estimating-with-trend-lines/e/linear-models-of-bivariate-data"
+                        },
+                        {
+                            "nombre": "Estimating equations of lines of best fit, and using them to make predictions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-two-variable-quantitative-data/xc9bacb4afa74e6e9:estimating-with-trend-lines/e/equations-of-lines-of-best-fit-to-make-predictions"
+                        },
+                        {
+                            "nombre": "Evaluate logarithms",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-exploring-two-variable-quantitative-data/xc9bacb4afa74e6e9:logarithms/e/logarithms_1"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 4: Get ready for probability",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability",
+                    "Lecciones": [
+                        {
+                            "nombre": "Relate fractions, decimals, and percents",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:fractions-decimals-percents/e/relate-fractions--decimals--and-percents"
+                        },
+                        {
+                            "nombre": "Compare decimals visually",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:comparing-decimals-and-fractions/e/comparing-decimals-visually"
+                        },
+                        {
+                            "nombre": "Compare decimals and fractions in different forms",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:comparing-decimals-and-fractions/e/cc-4th-comparing-decimals-and-fractions"
+                        },
+                        {
+                            "nombre": "Order decimals and fractions in different forms",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:comparing-decimals-and-fractions/e/order-decimals-and-fractions"
+                        },
+                        {
+                            "nombre": "Add and subtract fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:arithmetic-fractions/e/adding-and-subtracting-fractions-with-unlike-denominators"
+                        },
+                        {
+                            "nombre": "Multiplying fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:arithmetic-fractions/e/multiplying_fractions_0.5"
+                        },
+                        {
+                            "nombre": "Dividing fractions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:arithmetic-fractions/e/dividing_fractions_1.5"
+                        },
+                        {
+                            "nombre": "Simple probability",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:basic-probability/e/probability_1"
+                        },
+                        {
+                            "nombre": "Comparing probabilities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:basic-probability/e/understanding-probability"
+                        },
+                        {
+                            "nombre": "Experimental probability",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-probability/xc9bacb4afa74e6e9:experimental-probability/e/finding-probability"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 5: Get ready for random variables and probability distributions",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-random-variables-and-probability-distributions",
+                    "Lecciones": [
+                        {
+                            "nombre": "Making predictions with probability",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-random-variables-and-probability-distributions/xc9bacb4afa74e6e9:predictions-with-probability/e/using-probability-to-make-predictions"
+                        },
+                        {
+                            "nombre": "The counting principle",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-random-variables-and-probability-distributions/xc9bacb4afa74e6e9:the-counting-principle/e/fundamental-counting-principle"
+                        },
+                        {
+                            "nombre": "Develop probability distributions: Empirical probabilities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-ap-statistics/xc9bacb4afa74e6e9:get-ready-for-random-variables-and-probability-distributions/xc9bacb4afa74e6e9:probability-distributions-intro/e/probability-distributions-empirical"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Get ready for Precalculus",
+            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus",
+            "Unidades": [
+                {
+                    "nombre": "Unit 1: Get ready for complex numbers",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers",
+                    "Lecciones": [
+                        {
+                            "nombre": "Simplify roots of negative numbers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:the-imaginary-unit-i/e/simplify-square-roots-of-negative-numbers"
+                        },
+                        {
+                            "nombre": "Powers of the imaginary unit",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:the-imaginary-unit-i/e/imaginary_unit_powers"
+                        },
+                        {
+                            "nombre": "Parts of complex numbers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:complex-numbers-introduction/e/real-and-imaginary-parts-of-complex-numbers"
+                        },
+                        {
+                            "nombre": "Classify complex numbers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:complex-numbers-introduction/e/the-imaginary-unit-and-complex-numbers"
+                        },
+                        {
+                            "nombre": "Plot numbers on the complex plane",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:the-complex-plane/e/the_complex_plane"
+                        },
+                        {
+                            "nombre": "Add & subtract complex numbers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:adding-and-subtracting-complex-numbers/e/adding_and_subtracting_complex_numbers"
+                        },
+                        {
+                            "nombre": "Multiply complex numbers (basic)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:multiplying-complex-numbers/e/multiply-complex-numbers-by-real-or-imaginary-numbers"
+                        },
+                        {
+                            "nombre": "Multiply complex numbers",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:multiplying-complex-numbers/e/multiplying_complex_numbers"
+                        },
+                        {
+                            "nombre": "Solve quadratic equations: complex solutions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-complex-numbers/x65c069afc012e9d0:quadratic-equations-with-complex-solutions/e/quadratic-formula-with-complex-solutions"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 2: Get ready for polynomials",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials",
+                    "Lecciones": [
+                        {
+                            "nombre": "Add polynomials (intro)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:adding-and-subtracting-polynomials/e/adding_and_subtracting_polynomials"
+                        },
+                        {
+                            "nombre": "Subtract polynomials (intro)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:adding-and-subtracting-polynomials/e/subtract-polynomials"
+                        },
+                        {
+                            "nombre": "Add & subtract polynomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:adding-and-subtracting-polynomials/e/add---subtract-polynomials-challenge"
+                        },
+                        {
+                            "nombre": "Multiply binomials by polynomials: area model",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:multiplying-binomials-by-polynomials/e/bi-by-poly-area"
+                        },
+                        {
+                            "nombre": "Multiply binomials by polynomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:multiplying-binomials-by-polynomials/e/multiplying_polynomials"
+                        },
+                        {
+                            "nombre": "Polynomial special products: difference of squares",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:special-products-of-polynomials/e/poly-diff-of-sq"
+                        },
+                        {
+                            "nombre": "Polynomial special products: perfect square",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:special-products-of-polynomials/e/finding-special-products"
+                        },
+                        {
+                            "nombre": "Factor higher degree polynomials",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:factoring-higher-degree-polynomials/e/factor-higher-degree-polynomials"
+                        },
+                        {
+                            "nombre": "Identify quadratic patterns",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:factoring-using-structure/e/identify-quadratic-patterns"
+                        },
+                        {
+                            "nombre": "Factorization with substitution",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:factoring-using-structure/e/factorization-with-substitution"
+                        },
+                        {
+                            "nombre": "Factor polynomials using structure",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:factoring-using-structure/e/factoring_difference_of_squares_3"
+                        },
+                        {
+                            "nombre": "Zeros of polynomials (factored form)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:zeros-of-polynomials/e/using-zeros-to-graph-polynomials"
+                        },
+                        {
+                            "nombre": "Zeros of polynomials (with factoring)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:zeros-of-polynomials/e/find-the-zeros-of-polynomials"
+                        },
+                        {
+                            "nombre": "Divide polynomials by x (no remainders)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:dividing-polynomials-by-x/e/poly-by-x-no-remainders"
+                        },
+                        {
+                            "nombre": "Divide polynomials by x (with remainders)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:dividing-polynomials-by-x/e/poly-by-x-remainders"
+                        },
+                        {
+                            "nombre": "Divide quadratics by linear expressions (no remainders)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:dividing-quadratics-by-linear-factors/e/quad-by-linear-no-remainders"
+                        },
+                        {
+                            "nombre": "Divide quadratics by linear expressions (with remainders)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:dividing-quadratics-by-linear-factors/e/quad-by-linear-remainders"
+                        },
+                        {
+                            "nombre": "Divide polynomials by linear expressions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:dividing-polynomials-by-linear-factors/e/divide-polynomials-by-binomials"
+                        },
+                        {
+                            "nombre": "Factor using polynomial division",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-polynomials/x65c069afc012e9d0:dividing-polynomials-by-linear-factors/e/factor-using-polynomial-division"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 3: Get ready for composite and inverse functions",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions",
+                    "Lecciones": [
+                        {
+                            "nombre": "Shift functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:shifting-functions/e/shift-functions"
+                        },
+                        {
+                            "nombre": "Reflect functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:reflecting-functions/e/reflect-functions"
+                        },
+                        {
+                            "nombre": "Scale functions vertically",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:scaling-functions/e/scale-functions-vertically"
+                        },
+                        {
+                            "nombre": "Scale functions horizontally",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:scaling-functions/e/scale-functions-horizontally"
+                        },
+                        {
+                            "nombre": "Identify function transformations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:identifying-function-transformations/e/shifting_and_reflecting_functions"
+                        },
+                        {
+                            "nombre": "Domain and range from graph",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:intro-to-domain-and-range-of-a-function/e/domain_and_range_0.5"
+                        },
+                        {
+                            "nombre": "Evaluate inverse functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:intro-to-inverse-functions/e/understanding-inverse-functions"
+                        },
+                        {
+                            "nombre": "Finding inverses of linear functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-composite-and-inverse-functions/x65c069afc012e9d0:intro-to-inverse-functions/e/algebraically-finding-inverses"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 4: Get ready for trigonometry",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry",
+                    "Lecciones": [
+                        {
+                            "nombre": "Unit circle",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:unit-circle-introduction/e/unit-circle"
+                        },
+                        {
+                            "nombre": "Radians & degrees",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:radians/e/degrees_to_radians"
+                        },
+                        {
+                            "nombre": "Unit circle (with radians)",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:radians/e/unit-circle-with-radians"
+                        },
+                        {
+                            "nombre": "Use the Pythagorean identity",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:the-pythagorean-identity/e/circles-and-pythagorean-identities"
+                        },
+                        {
+                            "nombre": "Trig values of special angles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:trigonometric-values-of-special-angles/e/trigonometric-functions-of-special-angles"
+                        },
+                        {
+                            "nombre": "Graph sinusoidal functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:graphing-sinusoidal-functions/e/graphs_of_sine_and_cosine"
+                        },
+                        {
+                            "nombre": "Construct sinusoidal functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:graphing-sinusoidal-functions/e/construct-sinusoidal-functions"
+                        },
+                        {
+                            "nombre": "Graph sinusoidal functions: phase shift",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:graphing-sinusoidal-functions/e/graphs-of-trigonometric-functions"
+                        },
+                        {
+                            "nombre": "Modeling with sinusoidal functions",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:sinusoidal-models/e/modeling-with-periodic-functions"
+                        },
+                        {
+                            "nombre": "Modeling with sinusoidal functions: phase shift",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-trigonometry/x65c069afc012e9d0:sinusoidal-models/e/modeling-with-periodic-functions-2"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 5: Get ready for vectors and matrices",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices",
+                    "Lecciones": [
+                        {
+                            "nombre": "Combining equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:equivalent-systems-of-equations-and-the-elimination-method/e/combining-equations"
+                        },
+                        {
+                            "nombre": "Elimination strategies",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:equivalent-systems-of-equations-and-the-elimination-method/e/elimination-strategies"
+                        },
+                        {
+                            "nombre": "Systems of equations with elimination",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:equivalent-systems-of-equations-and-the-elimination-method/e/systems_of_equations_with_elimination_0.5"
+                        },
+                        {
+                            "nombre": "Systems of equations with elimination challenge",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:equivalent-systems-of-equations-and-the-elimination-method/e/systems_of_equations_with_elimination"
+                        },
+                        {
+                            "nombre": "Reasoning with systems of equations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:equivalent-systems-of-equations-and-the-elimination-method/e/understanding-solution-methods-to-systems-of-equations"
+                        },
+                        {
+                            "nombre": "Dilate points",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:dilations/e/performing-dilations"
+                        },
+                        {
+                            "nombre": "Dilations: scale factor",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:dilations/e/defining-dilations-2"
+                        },
+                        {
+                            "nombre": "Dilate triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:dilations/e/dilations"
+                        },
+                        {
+                            "nombre": "Dilations and properties",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:dilations/e/dilations-preserved-properties"
+                        },
+                        {
+                            "nombre": "Solve for a side in right triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:solving-triangles-using-the-trigonometric-ratios/e/trigonometry_2"
+                        },
+                        {
+                            "nombre": "Solve for an angle in right triangles",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:solving-triangles-using-the-trigonometric-ratios/e/solve-for-an-angle-in-a-right-triangle"
+                        },
+                        {
+                            "nombre": "Unit circle",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:untitled-313/e/unit-circle"
+                        },
+                        {
+                            "nombre": "Distance between two points",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-vectors-and-matrices/x65c069afc012e9d0:distance-formula/e/distance_formula"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 6: Get ready for series",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series",
+                    "Lecciones": [
+                        {
+                            "nombre": "Use arithmetic sequence formulas",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:intro-to-sequences/e/arithmetic_sequences_2"
+                        },
+                        {
+                            "nombre": "Use geometric sequence formulas",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:intro-to-sequences/e/geometric_sequences_2"
+                        },
+                        {
+                            "nombre": "Recursive formulas for arithmetic sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:constructing-arithmetic-sequences/e/recursive-formulas-for-arithmetic-sequences"
+                        },
+                        {
+                            "nombre": "Explicit formulas for arithmetic sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:constructing-arithmetic-sequences/e/explicit-formulas-for-arithmetic-sequences"
+                        },
+                        {
+                            "nombre": "Converting recursive & explicit forms of arithmetic sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:constructing-arithmetic-sequences/e/explicit-and-recursive-formulas-of-arithmetic-sequences"
+                        },
+                        {
+                            "nombre": "Recursive formulas for geometric sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:constructing-geometric-sequences/e/recursive-formulas-for-geometric-sequences"
+                        },
+                        {
+                            "nombre": "Explicit formulas for geometric sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:constructing-geometric-sequences/e/sequences-as-functions"
+                        },
+                        {
+                            "nombre": "Converting recursive & explicit forms of geometric sequences",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:constructing-geometric-sequences/e/explicit-and-recursive-formulas-of-geometric-sequences"
+                        },
+                        {
+                            "nombre": "Sequences word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:modeling-with-sequences/e/recursive_explicit"
+                        },
+                        {
+                            "nombre": "Evaluate sequences in recursive form",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:general-sequences/e/evaluating-sequences-in-recursive-form"
+                        },
+                        {
+                            "nombre": "Geometric series formula",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:geometric-series/e/geometric-series-formula"
+                        },
+                        {
+                            "nombre": "Finite geometric series word problems",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-series/x65c069afc012e9d0:geometric-series/e/geometric-series"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 7: Get ready for conic sections",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections",
+                    "Lecciones": [
+                        {
+                            "nombre": "Graph a circle from its features",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:graphs-of-circles-intro/e/graph-a-circle-according-to-its-features"
+                        },
+                        {
+                            "nombre": "Features of a circle from its graph",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:graphs-of-circles-intro/e/find-the-features-of-a-circle-from-its-graph"
+                        },
+                        {
+                            "nombre": "Features of a circle from its standard equation",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:standard-equation-of-a-circle/e/equation_of_a_circle_1"
+                        },
+                        {
+                            "nombre": "Graph a circle from its standard equation",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:standard-equation-of-a-circle/e/graphing_circles"
+                        },
+                        {
+                            "nombre": "Write standard equation of a circle",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:standard-equation-of-a-circle/e/write-the-equation-of-a-circle"
+                        },
+                        {
+                            "nombre": "Features of a circle from its expanded equation",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:expanded-equation-of-a-circle/e/equation_of_a_circle_2"
+                        },
+                        {
+                            "nombre": "Graph a circle from its expanded equation",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:expanded-equation-of-a-circle/e/graphing_circles_2"
+                        },
+                        {
+                            "nombre": "Equation of a parabola from focus & directrix",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-conic-sections/x65c069afc012e9d0:focus-and-directrix-of-a-parabola/e/equation-of-parabola-from-focus-and-directrix"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 8: Get ready for probability and combinatorics",
+                    "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics",
+                    "Lecciones": [
+                        {
+                            "nombre": "Simple probability",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:basic-theoretical-probability/e/probability_1"
+                        },
+                        {
+                            "nombre": "Comparing probabilities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:basic-theoretical-probability/e/understanding-probability"
+                        },
+                        {
+                            "nombre": "Subsets of sample spaces",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:probability-using-sample-spaces/e/describing-subsets-of-sample-spaces"
+                        },
+                        {
+                            "nombre": "Basic set notation",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:basic-set-operations/e/basic_set_notation"
+                        },
+                        {
+                            "nombre": "Experimental probability",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:experimental-probability/e/finding-probability"
+                        },
+                        {
+                            "nombre": "Making predictions with probability",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:experimental-probability/e/using-probability-to-make-predictions"
+                        },
+                        {
+                            "nombre": "Interpret results of simulations",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:randomness-probability-and-simulation/e/interpreting-results-simulations"
+                        },
+                        {
+                            "nombre": "Adding probabilities",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:addition-rule/e/adding-probability"
+                        },
+                        {
+                            "nombre": "Two-way tables, Venn diagrams, and probability",
+                            "link": "https://www.khanacademy.org/math/get-ready-for-precalculus/x65c069afc012e9d0:get-ready-for-probability-and-combinatorics/x65c069afc012e9d0:addition-rule/e/two-way-tables-venn-diagrams-probability"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Linear algebra",
+            "link": "https://www.khanacademy.org/math/linear-algebra",
+            "Unidades": [
+                {
+                    "nombre": "Unit 1: Vectors and spaces",
+                    "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces",
+                    "Lecciones": [
+                        {
+                            "nombre": "Scalar multiplication",
+                            "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/e/scaling_vectors"
+                        },
+                        {
+                            "nombre": "Unit vectors",
+                            "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/e/unit-vector"
+                        },
+                        {
+                            "nombre": "Add vectors",
+                            "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/e/adding_vectors"
+                        },
+                        {
+                            "nombre": "Add vectors: magnitude & direction to component",
+                            "link": "https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/vectors/e/adding-vectors-in-magnitude-and-direction-form"
+                        }
+                    ]
+                },
+                {
+                    "nombre": "Unit 2: Matrix transformations",
+                    "link": "https://www.khanacademy.org/math/linear-algebra/matrix-transformations",
+                    "Lecciones": "No hay lecciones"
+                },
+                {
+                    "nombre": "Unit 3: Alternate coordinate systems (bases)",
+                    "link": "https://www.khanacademy.org/math/linear-algebra/alternate-bases",
+                    "Lecciones": "No hay lecciones"
+                }
+            ]
+        }
+    ]
+}

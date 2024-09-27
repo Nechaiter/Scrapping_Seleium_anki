@@ -127,7 +127,7 @@ for curso in cursos:
 datos = {'cursos': cursos}
 print('Datos obtenidos')
 
-Iteraciones=2
+Iteraciones=3
 
 directorio = 'C:/Users/Francisco/Desktop/Google drive/Mini Proyecto/Scraping/Datos Json'
 nombre_archivo = 'datos '+str(Iteraciones)+'.json'
