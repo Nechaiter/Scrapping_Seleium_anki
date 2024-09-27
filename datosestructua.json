@@ -1,0 +1,24 @@
+{
+    "Cursos": [
+        {
+            "Nombre": "Curso de Algebra",
+            "link": "https://www.khanacademy.org/math/algebra",
+            "Unidades": [
+                {
+                    "Nombre": "Unidad 1",
+                    "LINK": "https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders",
+                    "lecciones": [
+                        {
+                            "Nombre": "Leccion 1",
+                            "LINK": "https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders/x18ca194a:remainders/e/understanding-remainders"
+                        },
+                        {
+                            "Nombre": "Leccion 2",
+                            "LINK": "https://www.khanacademy.org/math/arithmetic/x18ca194a:divide-with-remainders/x18ca194a:remainders/e/understanding-remainders"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

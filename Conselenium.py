@@ -45,7 +45,7 @@ Clave='kzd?Q42U>AGJryb'
 def EsperarCargadado(x):
     time.sleep(x)
 def EsperarAcciones():
-    time.sleep(0.3)
+    time.sleep(0.1)
 
 
 def EncontrarElemento(css_selector,nombre):
@@ -70,26 +70,70 @@ IniciarSesion=EncontrarElemento('data-testid','log-in-submit-button').click()
 EsperarCargadado(3)
 
 cursos = []
+CantidadCursos=0
 WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "._yi0e9gr")))
 
 CursosWeb=driver.find_elements(By.CSS_SELECTOR,"._yi0e9gr")
 for curso in CursosWeb:
     texto=curso.find_element(By.TAG_NAME, value='h3').text
     link=curso.find_element(By.TAG_NAME, value='a').get_attribute('href')
-    cursos.append(Curso(texto,link,[]))
+    cursos.append(Curso(texto,link,[]).to_dict())
+print('Cursos agregados')
 for curso in cursos:
-    print(curso.nombre + ' ' + curso.link)
-'''
-datos = {}
+    url=curso['link']
+    driver.get(url)
+    EsperarCargadado(3)
+    WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "._c53vsu1")))
+    UnidadesWeb=driver.find_elements(By.CSS_SELECTOR,"[data-testid='unit-header']")
+    Unidades=[]
+    print('Progreso: '+str(CantidadCursos)+'/'+str(len(cursos)))
+    CantidadCursos+=1
+    print('Curso: '+curso['nombre'])
+    for Uni in UnidadesWeb:
+        texto=Uni.find_element(By.TAG_NAME, value='h2').text
+        link=Uni.get_attribute('href')
+        Unidades.append(Unidad(texto,link,[]).to_dict())
+    for unidad in Unidades:
+        url=unidad['link']
+        driver.get(url)
+        EsperarCargadado(3)
+        try:
+            try:
+                WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "[data-testid='mastery-practice-content-item']")))
+                LeccionesWeb = WebDriverWait(driver, 10).until(
+                        EC.presence_of_all_elements_located((By.CSS_SELECTOR, "[data-testid='mastery-practice-content-item']")))
+                print('Lecciones tipo MASTERY')
+            except:
+                try:
+                    WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "._168icmv")))
+                    LeccionesWeb = WebDriverWait(driver, 10).until(
+                        EC.presence_of_all_elements_located((By.CSS_SELECTOR, "._168icmv")))
+                    print('Lecciones tipo LAPIZ')
+                except:
+                    raise
+            #LeccionesWeb=driver.find_elements(By.CSS_SELECTOR,"[data-testid='mastery-practice-content-item']")
+            Lecciones=[]
+            for Lecc in LeccionesWeb:
+                WebDriverWait(driver, 10).until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "._pc9bder")))
+                #texto=Lecc.find_element(By.CSS_SELECTOR,'._pc9bder').text
+                texto = WebDriverWait(Lecc, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, '._pc9bder'))).text
+                link=Lecc.find_element(By.CSS_SELECTOR,'._dwmetq').get_attribute('href')  #_dwmetq
+                Lecciones.append(Leccion(texto,link).to_dict())
+        except:
+            print("Error al encontrar lecciones")
+            Lecciones='No hay lecciones'
+        unidad['Lecciones']=Lecciones
+    curso['Unidades']=Unidades
+datos = {'cursos': cursos}
+print('Datos obtenidos')
 
-directorio = 'C:/Users/Francisco/Desktop/Google drive/Mini Proyecto/Scraping'
-nombre_archivo = 'datos.json'
+Iteraciones=2
+
+directorio = 'C:/Users/Francisco/Desktop/Google drive/Mini Proyecto/Scraping/Datos Json'
+nombre_archivo = 'datos '+str(Iteraciones)+'.json'
 ruta_archivo = os.path.join(directorio, nombre_archivo)
-
-Unidades = []
-Lecciones = []
-cursos = []
-'''
+with open(ruta_archivo, 'w', encoding='utf-8') as file:
+    json.dump(datos, file, ensure_ascii=False, indent=4)
 
 
 
