@@ -129,7 +129,7 @@ print('Datos obtenidos')
 
 Iteraciones=3
 
-directorio = 'C:/Users/Francisco/Desktop/Google drive/Mini Proyecto/Scraping/Datos Json'
+directorio = os.getcwd()
 nombre_archivo = 'datos '+str(Iteraciones)+'.json'
 ruta_archivo = os.path.join(directorio, nombre_archivo)
 with open(ruta_archivo, 'w', encoding='utf-8') as file:
