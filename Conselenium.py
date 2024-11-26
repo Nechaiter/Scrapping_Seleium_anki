@@ -127,7 +127,7 @@ for curso in cursos:
 datos = {'cursos': cursos}
 print('Datos obtenidos')
 
-Iteraciones=3
+Iteraciones=1
 
 directorio = os.getcwd()
 nombre_archivo = 'datos '+str(Iteraciones)+'.json'
