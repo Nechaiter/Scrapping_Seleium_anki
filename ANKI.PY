@@ -10,6 +10,38 @@ def export_deck(deck,nombre_archivo,export_path='C:/Users/Francisco/Desktop/Goog
 
 #Matematicas::Aritmetica::Unit 1
 #deckes=[]
+orden=[
+"Arithmetic",
+"Basic geometry and measurement",
+"Pre-algebra",
+"Algebra basics",
+"Get ready for Algebra 1",
+"Algebra 1",
+"High school geometry",
+"Get ready for Algebra 2",
+"Algebra 2",
+"Statistics and probability",
+"High school statistics",
+"Get ready for Precalculus",
+"College Algebra",
+"Trigonometry",
+"Precalculus",
+"Get ready for AP® Statistics",
+"AP®/College Statistics",
+"Get ready for AP® Calculus",
+"AP®/College Calculus AB",
+"AP®/College Calculus BC",
+"Differential Calculus",
+"Integral Calculus",
+"Multivariable calculus",
+"Differential equations",
+"Linear algebra"
+]
+
+def entregar_posicion(nombre):
+    return orden.index(nombre)
+
+
 
 # Define un modelo de carta
 my_model = genanki.Model(
@@ -32,7 +64,12 @@ my_model = genanki.Model(
 ruta_directorio = 'C:/Users/Francisco/Desktop/Google drive/Mini Proyecto/Scraping/Mazos/Mathematics'
 
 def parsear_signos(nombre):
-    return nombre.replace(':', '').replace('/', '').replace('\\', '').replace('*', '').replace('?', '').replace('"', '').replace('<', '').replace('>', '').replace('|', '').replace('𝘶', 'u').replace('®︎','')
+    return nombre.replace(':', '').replace('/', '').replace('\\', '').replace('*', '').replace('?', '').replace('"', '').replace('<', '').replace('>', '').replace('|', '').replace('𝘶', 'u').replace('®︎','').replace('®','')
+
+for i in range(len(orden)):
+    orden[i]=parsear_signos(orden[i])
+print(orden)
+
 
 def CrearCarpeta(nombre_carpeta, ruta_directorio=ruta_directorio):
     try:
@@ -55,10 +92,10 @@ with open(file_path, 'r',encoding='utf-8') as file:
 id=21313123
 
 for curso in data['Cursos']:
-    CrearCarpeta(parsear_signos(curso['nombre']))
     for unidad in curso['Unidades']:
         id=id+1
-        deck_unidad=genanki.Deck(id, 'Matemáticas::'+curso['nombre']+'::'+unidad['nombre'])
+        print(curso['nombre'],entregar_posicion(parsear_signos(curso['nombre'])))
+        deck_unidad=genanki.Deck(id, 'Mathematics::'+str(entregar_posicion(parsear_signos(curso['nombre']))+1)+'#'+' '+curso['nombre']+'::'+unidad['nombre'])
         try:
             Cartas_Unidad=[]
             for leccion in unidad['Lecciones']:
@@ -69,9 +106,8 @@ for curso in data['Cursos']:
                     model=my_model,
                     fields=[carta['Nombre_Leccion'], carta['criterio']]
                 ))
-            export_deck(deck_unidad,parsear_signos(unidad['nombre']),ruta_directorio+'/'+parsear_signos(curso['nombre'])+'/')
+            export_deck(deck_unidad,parsear_signos(unidad['nombre']),ruta_directorio+'/')
         except Exception as e:
             print(f"Error al exportar la unidad {unidad['nombre']}: {e}")
             continue
-
 print("Mazos creado con éxito!")
