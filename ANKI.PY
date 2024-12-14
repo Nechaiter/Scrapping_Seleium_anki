@@ -92,11 +92,14 @@ with open(file_path, 'r',encoding='utf-8') as file:
 id=21313123
 
 for curso in data['Cursos']:
-    CrearCarpeta(str(entregar_posicion(parsear_signos(curso['nombre']))+1)+'# '+parsear_signos(curso['nombre']))
+    if ((entregar_posicion(parsear_signos(curso['nombre']))+1)>9):
+        CrearCarpeta(str(entregar_posicion(parsear_signos(curso['nombre']))+1)+' '+parsear_signos(curso['nombre']))
+    else:
+        CrearCarpeta('0'+str(entregar_posicion(parsear_signos(curso['nombre']))+1)+' '+parsear_signos(curso['nombre']))
     for unidad in curso['Unidades']:
         id=id+1
         print(curso['nombre'],entregar_posicion(parsear_signos(curso['nombre'])))
-        deck_unidad=genanki.Deck(id, 'Mathematics::'+str(entregar_posicion(parsear_signos(curso['nombre']))+1)+'#'+' '+curso['nombre']+'::'+unidad['nombre'])
+        deck_unidad=genanki.Deck(id,unidad['nombre'])
         try:
             Cartas_Unidad=[]
             for leccion in unidad['Lecciones']:
@@ -107,7 +110,10 @@ for curso in data['Cursos']:
                     model=my_model,
                     fields=[carta['Nombre_Leccion'], carta['criterio']]
                 ))
-            export_deck(deck_unidad,parsear_signos(unidad['nombre']),ruta_directorio+'/'+str(entregar_posicion(parsear_signos(curso['nombre']))+1)+'# '+parsear_signos(curso['nombre'])+'/')
+            if ((entregar_posicion(parsear_signos(curso['nombre']))+1)>9):
+                export_deck(deck_unidad,parsear_signos(unidad['nombre']),ruta_directorio+'/'+str(entregar_posicion(parsear_signos(curso['nombre']))+1)+' '+parsear_signos(curso['nombre'])+'/')
+            else:
+                export_deck(deck_unidad,parsear_signos(unidad['nombre']),ruta_directorio+'/'+'0'+str(entregar_posicion(parsear_signos(curso['nombre']))+1)+' '+parsear_signos(curso['nombre'])+'/')
         except Exception as e:
             print(f"Error al exportar la unidad {unidad['nombre']}: {e}")
             continue
