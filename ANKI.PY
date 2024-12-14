@@ -92,6 +92,7 @@ with open(file_path, 'r',encoding='utf-8') as file:
 id=21313123
 
 for curso in data['Cursos']:
+    CrearCarpeta(str(entregar_posicion(parsear_signos(curso['nombre']))+1)+'# '+parsear_signos(curso['nombre']))
     for unidad in curso['Unidades']:
         id=id+1
         print(curso['nombre'],entregar_posicion(parsear_signos(curso['nombre'])))
@@ -106,7 +107,7 @@ for curso in data['Cursos']:
                     model=my_model,
                     fields=[carta['Nombre_Leccion'], carta['criterio']]
                 ))
-            export_deck(deck_unidad,parsear_signos(unidad['nombre']),ruta_directorio+'/')
+            export_deck(deck_unidad,parsear_signos(unidad['nombre']),ruta_directorio+'/'+str(entregar_posicion(parsear_signos(curso['nombre']))+1)+'# '+parsear_signos(curso['nombre'])+'/')
         except Exception as e:
             print(f"Error al exportar la unidad {unidad['nombre']}: {e}")
             continue
